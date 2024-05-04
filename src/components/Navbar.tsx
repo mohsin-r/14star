@@ -46,7 +46,8 @@ function Navbar() {
 
   return (
     <Menu
-      className="grow"
+      // eslint-disable-next-line tailwindcss/no-custom-classname
+      className="grow overflow-hidden"
       onClick={onClick}
       selectedKeys={[]}
       mode="horizontal"
