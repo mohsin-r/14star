@@ -12,7 +12,7 @@ export default function MyLayout() {
   const { Header, Content } = Layout
   return (
     <Layout>
-      <div className="z-10 m-0 flex w-full flex-col p-0">
+      <div className="fixed top-0 z-10 m-0 flex w-full flex-col p-0">
         <Header
           style={{
             display: 'flex',
