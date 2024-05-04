@@ -1,6 +1,9 @@
 export default function ContactUs() {
   return (
-    <div className="flex h-screen flex-col bg-[#182527] p-5" id="contact-us">
+    <div
+      className="flex min-h-screen flex-col bg-[#182527] p-5"
+      id="contact-us"
+    >
       <h1 className="mx-0 mb-0 px-0 text-center text-5xl font-bold text-[#02C37E]">
         Contact Us
       </h1>
@@ -48,7 +51,7 @@ export default function ContactUs() {
             possible services!
           </p>
           <iframe
-            className="mt-2 w-full grow border-0"
+            className="mt-2 min-h-64 w-full grow border-0"
             src="https://docs.google.com/forms/d/e/1FAIpQLScVuU9Vz-2I3W9T0xjpXi2_y_IEktzvAL46AwvLTNwboaO4nw/viewform?embedded=true"
           ></iframe>
         </div>
