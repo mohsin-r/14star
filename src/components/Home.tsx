@@ -31,7 +31,7 @@ export default function Home() {
           Get a quote
         </Button>
       </div>
-      <div className="mt-10 hidden w-3/5 sm:flex">
+      <div className="mt-10 hidden w-3/5 sm:flex sm:items-center sm:justify-center">
         <img src={home} className="min-w-[80%] max-w-full" />
       </div>
     </div>
