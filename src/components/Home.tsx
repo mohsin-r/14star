@@ -12,7 +12,7 @@ export default function Home() {
     }
   }
   return (
-    <div className="flex min-h-screen bg-[#02C37E] p-5 pt-16" id="home">
+    <div className="flex h-screen bg-[#02C37E] p-5 pt-16" id="home">
       <div className="flex w-full flex-col items-center justify-center text-center sm:w-2/5 sm:items-start sm:text-left">
         <div className="flex items-center justify-center sm:justify-normal sm:pt-2">
           <div className="m-0 mr-2 h-8 w-1 border-0 border-l-4 border-solid border-black"></div>
@@ -32,7 +32,7 @@ export default function Home() {
         </Button>
       </div>
       <div className="mt-10 hidden w-3/5 sm:flex">
-        <img src={home} className="max-h-full max-w-full" />
+        <img src={home} className="min-w-[80%] max-w-full" />
       </div>
     </div>
   )
