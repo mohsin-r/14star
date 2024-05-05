@@ -14,10 +14,10 @@ export default function OurTeam() {
       <div className="mb-5 mt-3 grid grid-flow-row auto-rows-fr gap-4 sm:grid-cols-2 lg:w-4/5">
         <Member
           name="Ali Hyder, CPA"
-          bio="As a Chartered Professional Accountant (CPA), I bring a wealth of experience and expertise in financial 
+          bio="As a Chartered Professional Accountant (CPA), Ali brings a wealth of experience and expertise in financial 
           management, tax planning, and regulatory compliance. With a meticulous attention to detail and a commitment to 
-          accuracy, I provide comprehensive accounting services tailored to meet the unique needs of each client.
-          Whether you're a small business owner or a corporate entity, I am dedicated to 
+          accuracy, Ali provides comprehensive accounting services tailored to meet the unique needs of each client.
+          Whether you're a small business owner or a corporate entity, Ali is dedicated to 
           delivering exceptional service and helping you navigate the complexities of finance with confidence. Let's work 
           together to optimize your financial health and drive long-term success."
           image={ali}

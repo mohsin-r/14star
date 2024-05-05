@@ -51,7 +51,7 @@ export default function ContactUs() {
             possible services!
           </p>
           <iframe
-            className="mt-2 min-h-64 w-full grow border-0"
+            className="mt-2 min-h-96 w-full grow border-0"
             src="https://docs.google.com/forms/d/e/1FAIpQLScVuU9Vz-2I3W9T0xjpXi2_y_IEktzvAL46AwvLTNwboaO4nw/viewform?embedded=true"
           ></iframe>
         </div>
