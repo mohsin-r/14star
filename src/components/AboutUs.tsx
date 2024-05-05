@@ -4,7 +4,7 @@ export default function AboutUs() {
   return (
     <div
       id="about-us"
-      className="flex h-screen flex-col items-center bg-[#F4F4F4] p-3"
+      className="flex min-h-screen flex-col items-center bg-[#F4F4F4] p-3"
     >
       <h1 className="mx-0 mb-0 px-0 text-5xl font-bold text-[#02C37E]">
         About Us
