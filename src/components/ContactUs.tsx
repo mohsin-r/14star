@@ -33,10 +33,10 @@ export default function ContactUs() {
           </h2>
           <div className="mt-2 size-fit rounded-3xl bg-[#02C37E] px-8 py-1">
             <a
-              href="mailto:info@14star.ca"
+              href="mailto:fourteenstarsolutions@gmail.com"
               className="text-xl font-bold text-black"
             >
-              info@14star.ca
+              fourteenstarsolutions@gmail.com
             </a>
           </div>
         </div>
@@ -52,7 +52,7 @@ export default function ContactUs() {
           </p>
           <iframe
             className="mt-2 min-h-96 w-full grow border-0"
-            src="https://docs.google.com/forms/d/e/1FAIpQLScVuU9Vz-2I3W9T0xjpXi2_y_IEktzvAL46AwvLTNwboaO4nw/viewform?embedded=true"
+            src="https://docs.google.com/forms/d/e/1FAIpQLSfjKZSJEH-v23j8BkJl6kcTXTMMf16CWz2e3Ofq9t4Prl0vnA/viewform?embedded=true"
           ></iframe>
         </div>
       </div>
