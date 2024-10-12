@@ -6,7 +6,8 @@ const idToKey = {
   'about-us': 'about',
   services: 'services',
   team: 'team',
-  'contact-us': 'contact'
+  'contact-us': 'contact',
+  promotions: 'promotions'
 }
 
 function Navbar() {
@@ -26,7 +27,8 @@ function Navbar() {
     {
       label: 'Contact Us',
       key: 'contact'
-    }
+    },
+    { label: 'Promotions', key: 'promotions' }
   ]
 
   const onClick: MenuProps['onClick'] = (e) => {

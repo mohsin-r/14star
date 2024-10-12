@@ -5,9 +5,7 @@ import ali from 'assets/ali.jpeg'
 export default function OurTeam() {
   return (
     <div id="team" className="flex flex-col items-center bg-[#FFFFFF] p-3">
-      <h1 className="mx-0 mb-0 px-0 text-5xl font-bold text-[#02C37E]">
-        Our Team
-      </h1>
+      <h1 className="m-0 px-0 text-5xl font-bold text-[#02C37E]">Our Team</h1>
       <p className="mt-1 text-center text-2xl font-semibold text-black">
         Meet the team behind your success!
       </p>

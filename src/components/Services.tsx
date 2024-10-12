@@ -6,7 +6,7 @@ export default function Services() {
       id="services"
       className="flex min-h-screen flex-col bg-[#1A2529] p-3 sm:px-5"
     >
-      <h1 className="mx-0 mb-0 px-0 text-5xl font-bold text-[#02C37E]">
+      <h1 className="m-0 px-0 text-5xl font-bold text-[#02C37E]">
         Our Services
       </h1>
       <h2 className="mx-0 mb-0 px-0 text-3xl font-bold text-[#02C37E]">

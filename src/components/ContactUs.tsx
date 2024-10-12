@@ -4,7 +4,7 @@ export default function ContactUs() {
       className="flex min-h-screen flex-col bg-[#182527] p-5"
       id="contact-us"
     >
-      <h1 className="mx-0 mb-0 px-0 text-center text-5xl font-bold text-[#02C37E]">
+      <h1 className="m-0 px-0 text-center text-5xl font-bold text-[#02C37E]">
         Contact Us
       </h1>
       <div className="flex grow flex-col sm:flex-row">

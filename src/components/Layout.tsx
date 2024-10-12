@@ -6,6 +6,7 @@ import AboutUs from 'components/AboutUs'
 import Services from 'components/Services'
 import OurTeam from 'components/OurTeam'
 import ContactUs from 'components/ContactUs'
+import Promotions from 'components/Promotions'
 
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 export default function MyLayout() {
@@ -41,6 +42,7 @@ export default function MyLayout() {
         <Services />
         <OurTeam />
         <ContactUs />
+        <Promotions />
       </Content>
     </Layout>
   )
