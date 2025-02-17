@@ -22,7 +22,7 @@ export default function Home() {
           Charting excellence together.
         </h1>
         <h1 className="mx-0 mt-0 px-0 text-3xl font-semibold">
-          Your partner in software development, accounting, and more!
+          Your partner in software development, taxation, bookkeeping, and more!
         </h1>
         <Button
           onClick={goToContact}

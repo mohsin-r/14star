@@ -40,6 +40,14 @@ export default function Services() {
           content="
           We enhance corporate governance and risk management with industry-based process improvements. Our Automated Internal Audit Observation Tracking System identifies weaknesses and non-compliance efficiently, offering hassle-free assurance through monthly reports supervised by certified Internal Auditors."
         />
+        <Service
+          title="Tax Planning"
+          content="We’ll help optimize your tax savings while staying compliant with tax laws. This includes advising on whether to incorporate your business or remain a sole proprietor/partnership, determining the right mix of salary vs. dividends if incorporated, maximizing tax deductions and credits, income splitting within the family, and estate planning or implementing an estate freeze."
+        />
+        <Service
+          title="Corporate Affairs"
+          content="We assist with company formation, whether federal or provincially incorporated, and ensure that all necessary steps are taken to set up your business correctly. Our services also include filing annual returns, maintaining minute books, and updating company registers in accordance with the latest regulations. Additionally, we provide guidance on the amalgamation or dissolution of your company, ensuring that these processes are handled smoothly and efficiently."
+        />
       </div>
       <h2 className="mx-0 mb-0 px-0 text-3xl font-bold text-[#02C37E]">
         Software Development
